@@ -46,6 +46,9 @@ my_hash = {first: "i'm first!", second: "i'm second!"}
 my_hash = {first: "i'm first!", second: "i'm second!", third: "i'm third!"}
 ```
 
+**Hint:** In some of these methods, you will need to alter `programmer_hash`,
+then make sure to _return_ the entire hash, not just the altered value.
+
 ## Conclusion
 
 Adding and updating data in a nested hash is just like adding and updating a
