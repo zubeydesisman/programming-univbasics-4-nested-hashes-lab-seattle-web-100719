@@ -8,7 +8,7 @@
 ## Introduction
 
 Now that we've seen some examples of nested hashes, the next step is to get
-more comfortable with using them. In this lesson, we're going to practice
+more comfortable with using them. In this lab, we're going to practice
 accessing and updating data within a nested hash.
 
 ## Instructions
