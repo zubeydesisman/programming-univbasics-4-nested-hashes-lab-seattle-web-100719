@@ -30,11 +30,11 @@ programmatically:
 ```ruby
 # good example
 
-my_hash = {first: "i'm first!", second: "i'm second!"}
-my_hash[:third] = "i'm third!"
+my_hash = {first: "I'm first!", second: "I'm second!"}
+my_hash[:third] = "I'm third!"
 
 puts my_hash
-# > {first: "i'm first!", second: "i'm second!", third: "i'm third!"}
+# > {first: "I'm first!", second: "I'm second!", third: "I'm third!"}
 ```
 
 Changing a hash by simply re-defining it is not the goal of this lab:
@@ -42,8 +42,8 @@ Changing a hash by simply re-defining it is not the goal of this lab:
 ```ruby
 # bad example
 
-my_hash = {first: "i'm first!", second: "i'm second!"}
-my_hash = {first: "i'm first!", second: "i'm second!", third: "i'm third!"}
+my_hash = {first: "I'm first!", second: "I'm second!"}
+my_hash = {first: "I'm first!", second: "I'm second!", third: "I'm third!"}
 ```
 
 **Hint:** In some of these methods, you will need to alter `programmer_hash`,
