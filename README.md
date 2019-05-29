@@ -1,6 +1,6 @@
 # Simple Nesting Lab
 
-## Objectives
+## Learning Goals
 
 - Access data from a nested hash
 - Add data to and change data within a nested hash
